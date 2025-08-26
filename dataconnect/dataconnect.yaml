@@ -1,0 +1,12 @@
+specVersion: "v1"
+serviceId: "kcd823"
+location: "northamerica-northeast1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "namerica-neast-sql"
+      cloudSql:
+        instanceId: "kcdsql"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
