@@ -117,7 +117,7 @@
 
   "apphosting": {
     "backendId": "kcdusbkend",
-    "rootDir": "\\stackblitz\\CUST_DASH_0801\\vitejs-vite-gj2dvb5t\\",       
+    "rootDir": "E:/my-github-repos/customer/vitejs-vite-gj2dvb5t",       
       "ignore": [
       "node_modules",
       ".git",
